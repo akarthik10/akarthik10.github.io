@@ -1,7 +1,6 @@
 ---
-layout: page
-title: About
-nolist: true
+#layout: page
+title: personal projects
 ---
 
 <p class="message">

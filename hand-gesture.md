@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-nolist: true
+title: Personal Projects
+list: yes
 ---
 
 <p class="message">

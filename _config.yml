@@ -4,10 +4,10 @@ highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
+#relative_permalinks: true
 
 # Setup
-title:            Hyde
+title:            'Karthik Anantharamu'
 tagline:          'A Jekyll theme'
 description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:              http://hyde.getpoole.com
@@ -22,5 +22,10 @@ paginate:         5
 # Custom vars
 version:          2.1.0
 
-github:
-  repo:           https://github.com/poole/hyde
+github:			  
+  repo:           https://github.com/akarthik10/akarthik10.github.io
+  profile:		  https://github.com/akarthik10
+
+gems:
+  - jekyll-paginate
+  - jekyll-gist
