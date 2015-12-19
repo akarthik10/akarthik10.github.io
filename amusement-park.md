@@ -2,7 +2,7 @@
 layout: page
 title: Amusement Park
 list: no
-=======
+---
 
 
 #OpenGL Amusement Park
