@@ -9,7 +9,7 @@ permalink:        pretty
 # Setup
 title:            'Karthik Anantharamu'
 tagline:          ''
-description:      'Hi, if you would like to contact me, I''m available on <a href="https://plus.google.com/100897659453221053462">Google+</a>, Twitter <a href="https://twitter.com/akarthik10">Twitter</a> or <a href="https://github.com/akarthik10">GitHub</a>.'
+description:      'Hi, if you would like to contact me, I''m available on <a href="https://plus.google.com/100897659453221053462">Google+</a>, <a href="https://twitter.com/akarthik10">Twitter</a> or <a href="https://github.com/akarthik10">GitHub</a>.'
 url:              http://hyde.getpoole.com
 baseurl:          /
 
