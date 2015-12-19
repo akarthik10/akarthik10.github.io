@@ -1,6 +1,6 @@
 ---
 layout: page
-title: OpenGL 3D Amusement Park
+title: 3D Amusement Park
 list: no
 ---
 

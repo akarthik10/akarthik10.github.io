@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hand Gesture Recognition
+title: Hand Gesture
 list: no
 ---
 
