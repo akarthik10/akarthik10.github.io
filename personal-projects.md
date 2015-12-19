@@ -14,5 +14,5 @@ list: yes
 * **_Save to Google Drive_** is an extension for Mozilla Firefox using which you can save files that you find on the web directly to your Google Drive account - no need to download and upload it again. This can also detect all the images in a web page and batch-save them to your Google Drive account. 
 [Learn more](https://github.com/akarthik10/save_to_google_drive)
 
-* **_PHP for GAE_** Before Google introduced as an officially supported language for Google App Engine, I wrote a wrapper around GAE SDK to allow run PHP using Quercus. 
+* **_PHP for Google App Engine_** is what I worked on before Google introduced PHP as an officially supported language for the Google App Engine. This a wrapper around GAE SDK to allow running PHP using Quercus, which uses Java under the hood. 
 [Learn more](https://github.com/akarthik10/gae-php)
