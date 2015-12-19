@@ -1,32 +1,48 @@
 ---
 layout: page
-title: Personal Projects
-list: yes
+title: Amusement Park
+list: no
 =======
 
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+#OpenGL Amusement Park
+This project, “An Amusement Park” uses OpenGL to draw a virtual amusement park. The park includes Ferris Wheel, Columbus Ship Ride and Roller Coaster. 
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+See the [YouTube video](https://www.youtube.com/watch?v=7_Z5359IEVU) for a walkthrough.
 
-There are currently two themes built on Poole:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7_Z5359IEVU" frameborder="0" allowfullscreen></iframe>
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+###Giant wheel
+Giant Wheel is visualized using circular rings. Rotation effects are provided for Giant Wheel. 
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+###Ship Ride
+Swinging action is employed for Columbus ship. 
 
-## Setup
+###Roller Coaster
+The Roller Coaster moves on a specified track. The tracks are created using Bezier curve functions with a set of defined control points, which are configurable. Tracks can also be placed on a separate file to enable dynamic loading of track data. 
 
-Some fun facts about the setup of this project include:
+###Skybox
+The whole scene is placed inside a texture mapped cube called SkyBox. This gives a realistic sky effect. 
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+###Movement
+The software also includes a first person movement where the viewer can move around anywhere in the scene. Mouse drag for rotation is supported.
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+###More Options
+The mouse context menu helps the user in selecting various options. The colours of various objects can be changed. The SkyBox texture background can be changed. The user can control various camera positions like, Free Movement, On Roller Coaster, On Columbus ship and In Giant Wheel. The user will also be able to control the movement of individual objects.
 
-Thanks for reading!
+
+Objects like cube, sphere and cylinders are used to implement 3D objects. Plain lines are used in the construction of Roller Coaster track. The normal, tangent and binormal at every point on the curve is calculated and the Roller Coaster is properly oriented along the track by rotating it about the angles made by tangent, normal and binormal with the curve.
+The following options are supported:
+•	Navigate in the scene. Rotate 360 degree to view.
+•	Start and stop Giant Wheel rotation, Columbus swinging action and Roller Coaster movement.
+•	Change colours of Giant Wheel, Columbus ship and Roller Coaster.
+•	Change background of SkyBox.
+
+
+##Screenshots:
+![1](https://github.com/akarthik10/AmusementPark/raw/master/screenshots/1.png)
+![2](https://github.com/akarthik10/AmusementPark/raw/master/screenshots/2.png)
+![3](https://github.com/akarthik10/AmusementPark/raw/master/screenshots/3.png)
+![4](https://github.com/akarthik10/AmusementPark/raw/master/screenshots/4.png)
+![5](https://github.com/akarthik10/AmusementPark/raw/master/screenshots/5.png)
+![6](https://github.com/akarthik10/AmusementPark/raw/master/screenshots/6.png)

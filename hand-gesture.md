@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Personal Projects
-list: yes
+title: Hand Gesture
+list: no
 ---
 
 <p class="message">
