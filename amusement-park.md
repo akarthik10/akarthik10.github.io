@@ -10,8 +10,14 @@ See the [YouTube video](https://www.youtube.com/watch?v=7_Z5359IEVU) for a walkt
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7_Z5359IEVU" frameborder="0" allowfullscreen></iframe>
 
+The primary goal of this project was to apply the different OpenGL techniques I had learnt into a demonstration ready project. When I thought about the scene on which I should be building on, Amusement Park came to my mind as it can involve different kind of movements associated with different kind of objects. 
+
 ###Giant wheel
-Giant Wheel is visualized using circular rings. Rotation effects are provided for Giant Wheel. 
+The Giant wheel or the Ferris wheel was the first object I attempted to recreate. As a combination of torus, disc and inflated lines formed the skeletal part of the wheel, the trolley was formed by placing multiple cubes and rotating each about their center. Next, every such trolley had to be upright with respect to the wheel, which I achieved by rotating the trolley along the angle made by it with the center of the disc. When the wheel rotates, each trolley has to be rotated by the same angle so that they all will remain upright. However, with a slight distortion that I applied using trigonometric functions, I was able to create a *swinging effect* for each trolley, which can be observed in the video.
+
+
+![1](https://github.com/akarthik10/AmusementPark/raw/master/screenshots/1.png)
+![2](https://github.com/akarthik10/AmusementPark/raw/master/screenshots/2.png)
 
 ###Ship Ride
 Swinging action is employed for Columbus ship. 
@@ -38,8 +44,7 @@ The following options are supported:
 
 
 ##Screenshots:
-![1](https://github.com/akarthik10/AmusementPark/raw/master/screenshots/1.png)
-![2](https://github.com/akarthik10/AmusementPark/raw/master/screenshots/2.png)
+
 ![3](https://github.com/akarthik10/AmusementPark/raw/master/screenshots/3.png)
 ![4](https://github.com/akarthik10/AmusementPark/raw/master/screenshots/4.png)
 ![5](https://github.com/akarthik10/AmusementPark/raw/master/screenshots/5.png)
@@ -47,6 +52,7 @@ The following options are supported:
 
 
 The complete project report can be viewed below.
+
 <iframe src="https://drive.google.com/file/d/0B6TfmI2fgbDyYTZhRVJuLTh1NTQ/preview" width="640" height="480"></iframe>
 
 
