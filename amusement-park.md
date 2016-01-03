@@ -4,7 +4,7 @@ title: 3D Amusement Park
 list: no
 ---
 
-This project, “An Amusement Park” uses OpenGL to draw a virtual amusement park. The park includes Ferris Wheel, Columbus Ship Ride and Roller Coaster. 
+This project, “An Amusement Park” uses OpenGL to draw a virtual amusement park. The park includes Ferris Wheel, Columbus Ship Ride and Roller Coaster, all drawn using basic OpenGL primitives.
 
 See the [YouTube video](https://www.youtube.com/watch?v=7_Z5359IEVU) for a walkthrough.
 
@@ -44,3 +44,9 @@ The following options are supported:
 ![4](https://github.com/akarthik10/AmusementPark/raw/master/screenshots/4.png)
 ![5](https://github.com/akarthik10/AmusementPark/raw/master/screenshots/5.png)
 ![6](https://github.com/akarthik10/AmusementPark/raw/master/screenshots/6.png)
+
+
+The complete project report can be viewed below.
+<iframe src="https://drive.google.com/file/d/0B6TfmI2fgbDyYTZhRVJuLTh1NTQ/preview" width="640" height="480"></iframe>
+
+
