@@ -44,13 +44,16 @@ A set of multiple Bezier curves were joined together to form a smooth, long and 
 ![Trolley rotation](http://akarthik10.github.io/public/cgv/cgv_normal_bi_tan.PNG)
 
 Eventually, this is how it turned out to be:
+
 ![5](https://github.com/akarthik10/AmusementPark/raw/master/screenshots/5.png)
 ![6](https://github.com/akarthik10/AmusementPark/raw/master/screenshots/6.png)
 
 ###Skybox
 The realistic sky background effect is achieved using the skybox technique. In this technique, the scene is placed in a very large cube with the inner walls of the cube textured with images of sky. The box also moves with respect to the first person camera, but at a much slower rate so that a parallax effect is achieved.
 
-![Trolley rotation](http://akarthik10.github.io/public/cgv/cgv_skybox.PNG)
+![Skybox](http://akarthik10.github.io/public/cgv/cgv_skybox.PNG)
+
+The above image shows the skybox with a containing scene.
 
 ###Other options
 There are several other options including:
