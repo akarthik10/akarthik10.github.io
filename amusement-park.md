@@ -33,11 +33,11 @@ The ship ride, also known as the Columbus ship was the most straightforward obje
 ###Roller Coaster
 The roller coaster was one of the most challenging things in this project. The challenges were to:
 
-* Draw a predetermined track along a specified path
-* Move the roller coaster car along it
-* Place the camera on one of the seats in the car and follow it as it moves
-* Change the car orientation according to the orientation of the track
-* Continually vary speed of the car based on whether it is climbing or descending
+- Draw a predetermined track along a specified path
+- Move the roller coaster car along it
+- Place the camera on one of the seats in the car and follow it as it moves
+- Change the car orientation according to the orientation of the track
+- Continually vary speed of the car based on whether it is climbing or descending
 
 A set of multiple Bezier curves were joined together to form a smooth, long and continuous track on which the roller coaster car could move. This also involved algorithms that smoothened a jerky transition from one Bezier curve to another. By calculating the normal, bi-normal and tangent at every position of the car, I was able to control the pitch, yaw and roll of the car to make it look realistic.
 
