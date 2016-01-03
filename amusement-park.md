@@ -13,46 +13,53 @@ See the [YouTube video](https://www.youtube.com/watch?v=7_Z5359IEVU) for a walkt
 The primary goal of this project was to apply the different OpenGL techniques I had learnt into a demonstration ready project. When I thought about the scene on which I should be building on, Amusement Park came to my mind as it can involve different kind of movements associated with different kind of objects. 
 
 ###Giant wheel
-The Giant wheel or the Ferris wheel was the first object I attempted to recreate. As a combination of torus, disc and inflated lines formed the skeletal part of the wheel, the trolley was formed by placing multiple cubes and rotating each about their center. Next, every such trolley had to be upright with respect to the wheel, which I achieved by rotating the trolley along the angle made by it with the center of the disc. When the wheel rotates, each trolley has to be rotated by the same angle so that they all will remain upright. However, with a slight distortion that I applied using trigonometric functions, I was able to create a *swinging effect* for each trolley, which can be observed in the video.
+The Giant wheel or the Ferris wheel was the first object I attempted to recreate. As a combination of torus, disc and inflated lines formed the skeletal part of the wheel, the trolley was formed by placing multiple cubes and rotating each about their center. Next, every such trolley had to be upright with respect to the wheel, which I achieved by rotating the trolley along the angle made by it with the center of the torus. When the wheel rotates, each trolley has to be rotated by the same angle so that they all will remain upright. However, with a slight distortion that I applied using trigonometric functions, I was able to create a *swinging effect* for each trolley, which can be observed in the video.
 
+![Trolley rotation](http://akarthik10.github.io/public/cgv/cgv_trolley_rotate.PNG)
+
+This was the output:
 
 ![1](https://github.com/akarthik10/AmusementPark/raw/master/screenshots/1.png)
 ![2](https://github.com/akarthik10/AmusementPark/raw/master/screenshots/2.png)
 
+
 ###Ship Ride
-Swinging action is employed for Columbus ship. 
-
-###Roller Coaster
-The Roller Coaster moves on a specified track. The tracks are created using Bezier curve functions with a set of defined control points, which are configurable. Tracks can also be placed on a separate file to enable dynamic loading of track data. 
-
-###Skybox
-The whole scene is placed inside a texture mapped cube called SkyBox. This gives a realistic sky effect. 
-
-###Movement
-The software also includes a first person movement where the viewer can move around anywhere in the scene. Mouse drag for rotation is supported.
-
-###More Options
-The mouse context menu helps the user in selecting various options. The colours of various objects can be changed. The SkyBox texture background can be changed. The user can control various camera positions like, Free Movement, On Roller Coaster, On Columbus ship and In Giant Wheel. The user will also be able to control the movement of individual objects.
-
-
-Objects like cube, sphere and cylinders are used to implement 3D objects. Plain lines are used in the construction of Roller Coaster track. The normal, tangent and binormal at every point on the curve is calculated and the Roller Coaster is properly oriented along the track by rotating it about the angles made by tangent, normal and binormal with the curve.
-The following options are supported:
-•	Navigate in the scene. Rotate 360 degree to view.
-•	Start and stop Giant Wheel rotation, Columbus swinging action and Roller Coaster movement.
-•	Change colours of Giant Wheel, Columbus ship and Roller Coaster.
-•	Change background of SkyBox.
-
-
-##Screenshots:
+The ship ride, also known as the Columbus ship was the most straight forward object to recreate. The base of ship came from a half cut elongated ellipsoid. The ship swings with respect to the point where it is attached to the stand. This swinging action was created using a trigonometric function of a specific period (time).
 
 ![3](https://github.com/akarthik10/AmusementPark/raw/master/screenshots/3.png)
 ![4](https://github.com/akarthik10/AmusementPark/raw/master/screenshots/4.png)
+
+
+###Roller Coaster
+The roller coaster was one of the most challenging things in this project. The challenges were to:
+* Draw a predetermined track along a specified path
+* Move the roller coaster car along it
+* Place the camera on one of the seats in the car and follow it as it moves
+* Change the car orientation according to the orientation of the track
+* Continually vary speed of the car based on whether it is climbing or descending
+
+A set of multiple Bezier curves were joined together to form a smooth, long and continuous track on which the roller coaster car could move. This also involved algorithms that smoothened a jerky transition from one Bezier curve to another. By calculating the normal, bi-normal and tangent at every position of the car, I was able to control the pitch, yaw and roll of the car to make it look realistic.
+
+![Trolley rotation](http://akarthik10.github.io/public/cgv/cgv_normal_bi_tan.PNG)
+
+Eventually, this is how it turned out to be:
 ![5](https://github.com/akarthik10/AmusementPark/raw/master/screenshots/5.png)
 ![6](https://github.com/akarthik10/AmusementPark/raw/master/screenshots/6.png)
 
+###Skybox
+The realistic sky background effect is achieved using the skybox technique. In this technique, the scene is placed in a very large cube with the inner walls of the cube textured with images of sky. The box also moves with respect to the first person camera, but at a much slower rate so that a parallax effect is achieved.
 
-The complete project report can be viewed below.
+![Trolley rotation](http://akarthik10.github.io/public/cgv/cgv_skybox.PNG)
 
-<iframe src="https://drive.google.com/file/d/0B6TfmI2fgbDyYTZhRVJuLTh1NTQ/preview" width="640" height="480"></iframe>
+###Other options
+There are several other options including:
+* First person and second person camera movement
+* Mouse drag and pull support for navigation
+* Configurable skybox backgrounds
+* Configurable camera positions using context menu
+* Configurable colors of every object
+
+For a more detailed report, see the complete report: [3D Amusement Park - Project Report](https://drive.google.com/file/d/0B6TfmI2fgbDyYTZhRVJuLTh1NTQ/view)
+
 
 
