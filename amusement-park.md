@@ -64,7 +64,7 @@ There are several other options including:
 * Configurable camera positions using context menu
 * Configurable colors of every object
 
-For a more detailed report, see the complete report: [3D Amusement Park - Project Report](https://drive.google.com/file/d/0B6TfmI2fgbDyYTZhRVJuLTh1NTQ/view)
+For more details, see the complete report: [3D Amusement Park - Project Report](https://drive.google.com/file/d/0B6TfmI2fgbDyYTZhRVJuLTh1NTQ/view)
 
 The below diagram provides a high level overview of implementation level details
 
