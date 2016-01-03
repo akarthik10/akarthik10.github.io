@@ -66,5 +66,7 @@ There are several other options including:
 
 For a more detailed report, see the complete report: [3D Amusement Park - Project Report](https://drive.google.com/file/d/0B6TfmI2fgbDyYTZhRVJuLTh1NTQ/view)
 
+The below diagram provides a high level overview of implementation level details
 
+![Flowchart](http://akarthik10.github.io/public/cgv/cgv_flowchart.PNG)
 
