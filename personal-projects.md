@@ -9,27 +9,16 @@ list: yes
 * [**_Save to Google Drive_**](https://github.com/akarthik10/save_to_google_drive) is an extension for Mozilla Firefox using which you can save files that you find on the web directly to your Google Drive account - no need to download and upload it again. This can also detect all the images in a web page and batch-save them to your Google Drive account. This was featured in SoftPedia, [MakeTechEasier](https://www.maketecheasier.com/save-files-to-google-drive-firefox/) and several other review websites. [Learn more](https://akarthik10.wordpress.com/2013/01/03/save-to-google-drive-extension-for-mozilla-firefox/). Unfortunately, this is now deprecated as API support was withdrawn by Google.
 
 
-![Save to Google Drive](https://akarthik10.github.io/public/save_to_gd_1.png)  
-
-Adding link
-
+![Save to Google Drive](https://akarthik10.github.io/public/save_to_gd_1.png "Adding Link")  
 ![Save to Google Drive](https://akarthik10.github.io/public/save_to_gd_2.png)
 
-Saving files
 
 * [**_MapMe for s60v5_**](https://github.com/akarthik10/MapMe) is one of the very first mobile applications that I created using Qt SDK in C++ and QML to run on Symbian s60 devices. This can track or report your location without using GPS using Cell ID triangulation technique by requesting the network Cell ID of nearest transmitting cell towers and by calculating an approximate user location. Apart from Cell ID, this also uses Mobile Country Code (MCC), Mobile Network Code (MNC), Location Area Code (LAC) for better accuracy.
  
 ![Showing location without GPS](https://raw.githubusercontent.com/akarthik10/MapMe/master/Screenshots/Scr000014.jpg)
-
-Requesting data
-
 ![Showing location without GPS](https://raw.githubusercontent.com/akarthik10/MapMe/master/Screenshots/Scr000005.jpg)
-
-Map
-
 ![Requesting data](https://raw.githubusercontent.com/akarthik10/MapMe/master/Screenshots/Scr000013.jpg)
 
-Location without GPS
 
 * [**_PHP for Google App Engine_**](https://github.com/akarthik10/gae-php) is what I worked on before Google introduced PHP as an officially supported language for the Google App Engine. This a wrapper around GAE SDK to allow running PHP using Quercus, which uses Java under the hood. 
 
@@ -37,12 +26,8 @@ Location without GPS
 
 
 ![Asking a query](https://akarthik10.github.io/public/omni_1.png) 
-
-Asking a query
-
 ![Response](https://akarthik10.github.io/public/omni_2.png)
 
-Response
 
 * [**_Omniscient Android_**](https://github.com/akarthik10/Omniscient_android) is the android version of Omniscient for Web. This application can take user queries and respond back with relevant information.
 
