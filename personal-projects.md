@@ -53,7 +53,7 @@ list: yes
   * [Spaceship game](https://github.com/akarthik10/opengl-samples/tree/master/examples/asteroids)
   
   ![Image](https://akarthik10.github.io/public/spaceship.PNG)
-  * [Helicopter](https://github.com/akarthik10/opengl-samples/tree/master/examples/helicopter) (Worked with my friend)
+  * [Helicopter](https://github.com/akarthik10/opengl-samples/tree/master/examples/helicopter) (In collaboration with my friend)
   
   ![Image](https://akarthik10.github.io/public/helicopter.PNG)
 
