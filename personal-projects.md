@@ -6,7 +6,7 @@ list: yes
 
 * [**_Open Learn_**](https://github.com/akarthik10/rajeshwari) is an open-source school management system that transforms the way organizations can be managed. Currently used by about 12 schools in rural Karnataka, it allows one to manage student profile including student attendance, student exam report (SMS) and fee payment tracking (SMS). Its vision is to transform the way students are taught in schools, using interactive learning techniques that can generate illustrations with no additional effort.
 
-* [**_Save to Google Drive_**](https://github.com/akarthik10/save_to_google_drive) is an extension for Mozilla Firefox using which you can save files that you find on the web directly to your Google Drive account - no need to download and upload it again. This can also detect all the images in a web page and batch-save them to your Google Drive account. This was featured in SoftPedia, [MakeTechEasier](https://www.maketecheasier.com/save-files-to-google-drive-firefox/) and several other review websites. [Learn more](https://akarthik10.wordpress.com/2013/01/03/save-to-google-drive-extension-for-mozilla-firefox/). 
+* [**_Save to Google Drive_**](https://github.com/akarthik10/save_to_google_drive) is an extension for Mozilla Firefox using which you can save files that you find on the web directly to your Google Drive account - no need to download and upload it again. This can also detect all the images in a web page and batch-save them to your Google Drive account. This was featured in SoftPedia, [MakeTechEasier](https://www.maketecheasier.com/save-files-to-google-drive-firefox/) and several other review websites. [Learn more](https://akarthik10.wordpress.com/2013/01/03/save-to-google-drive-extension-for-mozilla-firefox/). Unfortunately, this is now deprecated as API support was withdrawn by Google.
 
 Adding a link       |  Saving content
 :-------------------------:|:-------------------------:
@@ -24,6 +24,10 @@ Requesting data| Map|Location being shown without GPS
 * [**_PHP for Google App Engine_**](https://github.com/akarthik10/gae-php) is what I worked on before Google introduced PHP as an officially supported language for the Google App Engine. This a wrapper around GAE SDK to allow running PHP using Quercus, which uses Java under the hood. 
 
 * [**_Omniscient_**](https://github.com/akarthik10/Omniscient) is a fun project I created that can accept user queries in natural language and can respond back with relevant answers, using Wolfram Aplha. Omnsicient can be accessed using [this link](http://omniscient-web.appspot.com).
+
+Asking a query      |  Response
+:-------------------------:|:-------------------------:
+![Asking a query](https://akarthik10.github.io/public/omni_1.png) |  ![Response](https://akarthik10.github.io/public/omni_2.png)
 
 * [**_Omniscient Android_**](https://github.com/akarthik10/Omniscient_android) is the android version of Omniscient for Web. This application can take user queries and respond back with relevant information.
 
