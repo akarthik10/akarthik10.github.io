@@ -33,4 +33,9 @@ Asking a query      |  Response
 
 * I used [**_Captcha2Text_**](https://github.com/akarthik10/Captcha2Text) to decode some basic captcha images for my page scraping applications. This does not use any advanced image processing algorithms, or any other OCR techniques. It requires you to build a hash list of known letters after which any re-occurance of that letter is automatically detected. But, please be sure to ask the site owner's permissions before using this.
 
+ * Step 1: ![Step 1](https://raw.githubusercontent.com/akarthik10/Captcha2Text/master/example/step_1_original_image/captcha.jpg)
+ * Step 2: ![Step 2](https://raw.githubusercontent.com/akarthik10/Captcha2Text/master/example/step_2_cleaned_image/output.jpg)
+ * Step 3: ![Step 3](https://raw.githubusercontent.com/akarthik10/Captcha2Text/master/example/step_3_split_letters/ltr0.jpg)  ![Step 3](https://raw.githubusercontent.com/akarthik10/Captcha2Text/master/example/step_3_split_letters/ltr1.jpg)  ![Step 3](https://raw.githubusercontent.com/akarthik10/Captcha2Text/master/example/step_3_split_letters/ltr2.jpg)  ![Step 3](https://raw.githubusercontent.com/akarthik10/Captcha2Text/master/example/step_3_split_letters/ltr3.jpg)  ![Step 3](https://raw.githubusercontent.com/akarthik10/Captcha2Text/master/example/step_3_split_letters/ltr4.jpg)  ![Step 3](https://raw.githubusercontent.com/akarthik10/Captcha2Text/master/example/step_3_split_letters/ltr5.jpg)
+ * Step 4: piuqd8
+
 * [**_e-Odyssey_**](https://github.com/akarthik10/e-Odyssey) is the website (script!) I created for e-Odyssey, the computer science club of our college. Completely written in Google Apps Script, you do not need a hosting space or a server to host this for processing. This script also has a XML import function that can fetch posts from a blog and can act as an index for all of its posts.
