@@ -10,7 +10,7 @@ See the [YouTube video](https://www.youtube.com/watch?v=7_Z5359IEVU) for a walkt
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7_Z5359IEVU" frameborder="0" allowfullscreen></iframe>
 
-The primary goal of this project was to apply the different OpenGL techniques I had learnt into project ready for demonstration. When I thought about the scene on which I should be building on, Amusement Park came to my mind as it can involve different kind of movements associated with different kind of objects. 
+The primary goal of this project was to apply the different OpenGL techniques I had learnt into a project ready for demonstration. When I thought about the scene on which I should be building on, Amusement Park came to my mind as it can involve different kind of movements associated with different kind of objects. 
 
 ###Giant wheel
 The Giant wheel or the Ferris wheel was the first object I attempted to recreate. As a combination of torus, disc and inflated lines formed the skeletal part of the wheel, the trolley was formed by placing multiple cubes and rotating each about their center. Next, every such trolley had to be upright with respect to the wheel, which I achieved by rotating the trolley along the angle made by it with the center of the torus. When the wheel rotates, each trolley has to be rotated by the same angle so that they all will remain upright. However, with a slight distortion that I applied using trigonometric functions, I was able to create a *swinging effect* for each trolley, which can be observed in the video.
