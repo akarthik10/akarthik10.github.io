@@ -45,6 +45,17 @@ list: yes
   ![Image](https://akarthik10.github.io/public/bowling_1.PNG)
   ![Image](https://akarthik10.github.io/public/bowling_2.PNG)
   
+  * [Least Recently Used Page Replacement Algorithm - LRU](https://github.com/akarthik10/opengl-samples/tree/master/examples/lru-page-replacement)
+  
+  ![Image](https://akarthik10.github.io/public/lru_1.PNG)
+  ![Image](https://akarthik10.github.io/public/lru_2.PNG)
+
+  * [Spaceship game](https://github.com/akarthik10/opengl-samples/tree/master/examples/asteroids)
+  
+  ![Image](https://akarthik10.github.io/public/spaceship.PNG)
+  * [Helicopter](https://github.com/akarthik10/opengl-samples/tree/master/examples/helicopter) (Worked with my friend)
+  
+  ![Image](https://akarthik10.github.io/public/helicopter.PNG)
 
 * [**_Omniscient Android_**](https://github.com/akarthik10/Omniscient_android) is the android version of Omniscient for Web. This application can take user queries and respond back with relevant information.
 
