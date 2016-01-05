@@ -28,6 +28,34 @@ list: yes
 ![Asking a query](https://akarthik10.github.io/public/omni_1.png) 
 ![Response](https://akarthik10.github.io/public/omni_2.png)
 
+* I have also worked on several [**_OpenGL Projects_**](https://github.com/akarthik10/opengl-samples/tree/master/examples) in my free time to learn Computer Graphics in OpenGL.
+
+  * [Flappy Bird](https://github.com/akarthik10/opengl-samples/tree/master/examples/flappy)
+  
+  ![Image](https://akarthik10.github.io/public/flappy_1.PNG)
+  ![Image](https://akarthik10.github.io/public/flappy_2.PNG)
+  ![Image](https://akarthik10.github.io/public/flappy_3.PNG)
+
+  * [Fish](https://github.com/akarthik10/opengl-samples/tree/master/examples/fish)
+  
+  ![Image](https://akarthik10.github.io/public/fish_1.PNG)
+
+  * [Bowling game](https://github.com/akarthik10/opengl-samples/tree/master/examples/bowling)
+  
+  ![Image](https://akarthik10.github.io/public/bowling_1.PNG)
+  ![Image](https://akarthik10.github.io/public/bowling_2.PNG)
+  
+  * [Least Recently Used Page Replacement Algorithm - LRU](https://github.com/akarthik10/opengl-samples/tree/master/examples/lru-page-replacement)
+  
+  ![Image](https://akarthik10.github.io/public/lru_1.PNG)
+  ![Image](https://akarthik10.github.io/public/lru_2.PNG)
+
+  * [Spaceship game](https://github.com/akarthik10/opengl-samples/tree/master/examples/asteroids)
+  
+  ![Image](https://akarthik10.github.io/public/spaceship.PNG)
+  * [Helicopter](https://github.com/akarthik10/opengl-samples/tree/master/examples/helicopter) (In collaboration with my friend)
+  
+  ![Image](https://akarthik10.github.io/public/helicopter.PNG)
 
 * [**_Omniscient Android_**](https://github.com/akarthik10/Omniscient_android) is the android version of Omniscient for Web. This application can take user queries and respond back with relevant information.
 
