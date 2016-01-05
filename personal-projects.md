@@ -40,34 +40,25 @@ list: yes
 
 * I have also worked on several [**_OpenGL Projects_**](https://github.com/akarthik10/opengl-samples/tree/master/examples) in my free time to learn Computer Graphics in OpenGL.
 
-  - [Flappy Bird](https://github.com/akarthik10/opengl-samples/tree/master/examples/flappy)
+  * [Flappy Bird](https://github.com/akarthik10/opengl-samples/tree/master/examples/flappy)
   
      <table><tr>  <td align="center" valign="middle"><img align="center" src="https://akarthik10.github.io/public/flappy_1.PNG" /></td>
        <td align="center" valign="middle"><img align="center" src="https://akarthik10.github.io/public/flappy_2.PNG" /></td>
        <td align="center" valign="middle"><img align="center" src="https://akarthik10.github.io/public/flappy_3.PNG" /></td></tr></table>
-
-  - [Fish](https://github.com/akarthik10/opengl-samples/tree/master/examples/fish)
+  * [Fish](https://github.com/akarthik10/opengl-samples/tree/master/examples/fish)
       <div style="display:table-cell; vertical-align:middle; text-align:center">
       <img align="center" src="https://akarthik10.github.io/public/fish_1.PNG" />
       </div>
-
-
-  - [Bowling game](https://github.com/akarthik10/opengl-samples/tree/master/examples/bowling)
-  
+  * [Bowling game](https://github.com/akarthik10/opengl-samples/tree/master/examples/bowling)
     <table><tr>  <td align="center" valign="middle"><img align="center" src="https://akarthik10.github.io/public/bowling_1.PNG" /></td>
       <td align="center" valign="middle"><img align="center" src="https://akarthik10.github.io/public/bowling_2.PNG" /></td></tr></table>
-  
-  - [Least Recently Used Page Replacement Algorithm - LRU](https://github.com/akarthik10/opengl-samples/tree/master/examples/lru-page-replacement)
-  
+  * [Least Recently Used Page Replacement Algorithm - LRU](https://github.com/akarthik10/opengl-samples/tree/master/examples/lru-page-replacement)
      <table><tr>  <td align="center" valign="middle"><img align="center" src="https://akarthik10.github.io/public/lru_1.PNG" /></td>
        <td align="center" valign="middle"><img align="center" src="https://akarthik10.github.io/public/lru_2.PNG" /></td></tr>
      <tr><td align="center" valign="middle">Entering a sequence of page requests</td><td align="center" valign="middle">Algorithm presentation</td></tr></table>
-
-  - [Spaceship game](https://github.com/akarthik10/opengl-samples/tree/master/examples/asteroids)
-  
+  * [Spaceship game](https://github.com/akarthik10/opengl-samples/tree/master/examples/asteroids)
      <img align="center" src="https://akarthik10.github.io/public/spaceship.PNG" />
-  - [Helicopter](https://github.com/akarthik10/opengl-samples/tree/master/examples/helicopter) (In collaboration with my friend)
-  
+  * [Helicopter](https://github.com/akarthik10/opengl-samples/tree/master/examples/helicopter) (In collaboration with my friend)
      <img align="center" src="https://akarthik10.github.io/public/helicopter.PNG" />
 
 * [**_Omniscient Android_**](https://github.com/akarthik10/Omniscient_android) is the android version of Omniscient for Web. This application can take user queries and respond back with relevant information.
