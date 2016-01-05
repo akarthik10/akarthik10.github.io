@@ -42,9 +42,9 @@ list: yes
 
   * [Flappy Bird](https://github.com/akarthik10/opengl-samples/tree/master/examples/flappy)
   
-<table><tr>  <td align="center" valign="middle"><img align="center" src="https://akarthik10.github.io/public/flappy_1.PNG" /></td>
-  <td align="center" valign="middle"><img align="center" src="https://akarthik10.github.io/public/flappy_2.PNG" /></td>
-  <td align="center" valign="middle"><img align="center" src="https://akarthik10.github.io/public/flappy_3.PNG" /></td></tr></table>
+     <table><tr>  <td align="center" valign="middle"><img align="center" src="https://akarthik10.github.io/public/flappy_1.PNG" /></td>
+       <td align="center" valign="middle"><img align="center" src="https://akarthik10.github.io/public/flappy_2.PNG" /></td>
+       <td align="center" valign="middle"><img align="center" src="https://akarthik10.github.io/public/flappy_3.PNG" /></td></tr></table>
 
   * [Fish](https://github.com/akarthik10/opengl-samples/tree/master/examples/fish)
       <div style="display:table-cell; vertical-align:middle; text-align:center">
