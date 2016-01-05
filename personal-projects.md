@@ -47,9 +47,9 @@ list: yes
   <td align="center" valign="middle"><img align="center" src="https://akarthik10.github.io/public/flappy_3.PNG" /></td></tr></table>
 
   * [Fish](https://github.com/akarthik10/opengl-samples/tree/master/examples/fish)
-  
-
-    <img align="center" src="https://akarthik10.github.io/public/fish_1.PNG" />
+      <div style="display:table-cell; vertical-align:middle; text-align:center">
+      <img align="center" src="https://akarthik10.github.io/public/fish_1.PNG" />
+      </div>
 
 
   * [Bowling game](https://github.com/akarthik10/opengl-samples/tree/master/examples/bowling)
