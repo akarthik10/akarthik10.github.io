@@ -46,6 +46,7 @@ list: yes
        <td align="center" valign="middle"><img align="center" src="https://akarthik10.github.io/public/flappy_2.PNG" /></td>
        <td align="center" valign="middle"><img align="center" src="https://akarthik10.github.io/public/flappy_3.PNG" /></td></tr></table>
   * [Fish](https://github.com/akarthik10/opengl-samples/tree/master/examples/fish)
+  
       <div style="display:table-cell; vertical-align:middle; text-align:center">
       <img align="center" src="https://akarthik10.github.io/public/fish_1.PNG" />
       </div>
@@ -57,8 +58,10 @@ list: yes
        <td align="center" valign="middle"><img align="center" src="https://akarthik10.github.io/public/lru_2.PNG" /></td></tr>
      <tr><td align="center" valign="middle">Entering a sequence of page requests</td><td align="center" valign="middle">Algorithm presentation</td></tr></table>
   * [Spaceship game](https://github.com/akarthik10/opengl-samples/tree/master/examples/asteroids)
+  
      <img align="center" src="https://akarthik10.github.io/public/spaceship.PNG" />
   * [Helicopter](https://github.com/akarthik10/opengl-samples/tree/master/examples/helicopter) (In collaboration with my friend)
+  
      <img align="center" src="https://akarthik10.github.io/public/helicopter.PNG" />
 
 * [**_Omniscient Android_**](https://github.com/akarthik10/Omniscient_android) is the android version of Omniscient for Web. This application can take user queries and respond back with relevant information.
