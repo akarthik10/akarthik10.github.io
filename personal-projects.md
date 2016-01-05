@@ -6,12 +6,13 @@ list: yes
 
 * [**_Open Learn_**](https://github.com/akarthik10/rajeshwari) is an open-source school management system that transforms the way organizations can be managed. Currently used by about 12 schools in rural Karnataka, it allows one to manage student profile including student attendance, student exam report (SMS) and fee payment tracking (SMS). Its vision is to transform the way students are taught in schools, using interactive learning techniques that can generate illustrations with no additional effort.
 
-* [**_Save to Google Drive_**](https://github.com/akarthik10/save_to_google_drive) is an extension for Mozilla Firefox using which you can save files that you find on the web directly to your Google Drive account - no need to download and upload it again. This can also detect all the images in a web page and batch-save them to your Google Drive account. This was featured in SoftPedia, [MakeTechEasier](https://www.maketecheasier.com/save-files-to-google-drive-firefox/) and several other review websites.  Unfortunately, this is now deprecated as API support was withdrawn by Google.[Learn more](https://akarthik10.wordpress.com/2013/01/03/save-to-google-drive-extension-for-mozilla-firefox/).
+* [**_Save to Google Drive_**](https://github.com/akarthik10/save_to_google_drive) is an extension for Mozilla Firefox using which you can save files that you find on the web directly to your Google Drive account - no need to download and upload it again. This can also detect all the images in a web page and batch-save them to your Google Drive account. This was featured in SoftPedia, [MakeTechEasier](https://www.maketecheasier.com/save-files-to-google-drive-firefox/) and several other review websites.  Unfortunately, this is now deprecated as API support was withdrawn by Google. [Learn more](https://akarthik10.wordpress.com/2013/01/03/save-to-google-drive-extension-for-mozilla-firefox/).
 
 <table>
 <td>
 ![Save to Google Drive](https://akarthik10.github.io/public/save_to_gd_1.png "Adding Link") </td>
 <td>![Save to Google Drive](https://akarthik10.github.io/public/save_to_gd_2.png)</td>
+</table>
 
 * [**_MapMe for s60v5_**](https://github.com/akarthik10/MapMe) is one of the very first mobile applications that I created using Qt SDK in C++ and QML to run on Symbian s60 devices. This can track or report your location without using GPS using Cell ID triangulation technique by requesting the network Cell ID of nearest transmitting cell towers and by calculating an approximate user location. Apart from Cell ID, this also uses Mobile Country Code (MCC), Mobile Network Code (MNC), Location Area Code (LAC) for better accuracy.
  
