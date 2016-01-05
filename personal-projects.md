@@ -9,32 +9,42 @@ list: yes
 * [**_Save to Google Drive_**](https://github.com/akarthik10/save_to_google_drive) is an extension for Mozilla Firefox using which you can save files that you find on the web directly to your Google Drive account - no need to download and upload it again. This can also detect all the images in a web page and batch-save them to your Google Drive account. This was featured in SoftPedia, [MakeTechEasier](https://www.maketecheasier.com/save-files-to-google-drive-firefox/) and several other review websites.  Unfortunately, this is now deprecated as API support was withdrawn by Google. [Learn more](https://akarthik10.wordpress.com/2013/01/03/save-to-google-drive-extension-for-mozilla-firefox/).
 
 <table>
-<td><img src="https://akarthik10.github.io/public/save_to_gd_1.png" /> </td>
-<td><img src="https://akarthik10.github.io/public/save_to_gd_2.png" /></td>
+<tr><td><img src="https://akarthik10.github.io/public/save_to_gd_1.png" /> </td>
+<td><img src="https://akarthik10.github.io/public/save_to_gd_2.png" /></td></tr>
+<tr><td>Adding link</td><td>Saving files</td></tr>
 </table>
 
 * [**_MapMe for s60v5_**](https://github.com/akarthik10/MapMe) is one of the very first mobile applications that I created using Qt SDK in C++ and QML to run on Symbian s60 devices. This can track or report your location without using GPS using Cell ID triangulation technique by requesting the network Cell ID of nearest transmitting cell towers and by calculating an approximate user location. Apart from Cell ID, this also uses Mobile Country Code (MCC), Mobile Network Code (MNC), Location Area Code (LAC) for better accuracy.
  
-![Showing location without GPS](https://raw.githubusercontent.com/akarthik10/MapMe/master/Screenshots/Scr000014.jpg)
-![Showing location without GPS](https://raw.githubusercontent.com/akarthik10/MapMe/master/Screenshots/Scr000005.jpg)
-![Requesting data](https://raw.githubusercontent.com/akarthik10/MapMe/master/Screenshots/Scr000013.jpg)
+<table>
+<tr>
+<td><img src="https://raw.githubusercontent.com/akarthik10/MapMe/master/Screenshots/Scr000014.jpg" /></td>
+<td><img src="https://raw.githubusercontent.com/akarthik10/MapMe/master/Screenshots/Scr000005.jpg" /></td>
+<td><img src="https://raw.githubusercontent.com/akarthik10/MapMe/master/Screenshots/Scr000013.jpg" /></td>
+</tr>
+<tr><td>Requesting data</td><td>Position in Map</td><td>Current position without GPS</td></tr>
+</table>
 
 
 * [**_PHP for Google App Engine_**](https://github.com/akarthik10/gae-php) is what I worked on before Google introduced PHP as an officially supported language for the Google App Engine. This a wrapper around GAE SDK to allow running PHP using Quercus, which uses Java under the hood. 
 
 * [**_Omniscient_**](https://github.com/akarthik10/Omniscient) is a fun project I created that can accept user queries in natural language and can respond back with relevant answers, using Wolfram Aplha. Omnsicient can be accessed using [this link](http://omniscient-web.appspot.com).
 
-
-![Asking a query](https://akarthik10.github.io/public/omni_1.png) 
-![Response](https://akarthik10.github.io/public/omni_2.png)
+<table>
+<tr>
+<td><img src="https://akarthik10.github.io/public/omni_1.png" /> </td>
+<td><img src="https://akarthik10.github.io/public/omni_2.png" /></td>
+</tr>
+<tr><td>Asking a query</td><td>Response</td></tr>
+</table>
 
 * I have also worked on several [**_OpenGL Projects_**](https://github.com/akarthik10/opengl-samples/tree/master/examples) in my free time to learn Computer Graphics in OpenGL.
 
   * [Flappy Bird](https://github.com/akarthik10/opengl-samples/tree/master/examples/flappy)
   
-  ![Image](https://akarthik10.github.io/public/flappy_1.PNG)
-  ![Image](https://akarthik10.github.io/public/flappy_2.PNG)
-  ![Image](https://akarthik10.github.io/public/flappy_3.PNG)
+<table><tr>  <td><img src="https://akarthik10.github.io/public/flappy_1.PNG" /></td>
+  <td><img src="https://akarthik10.github.io/public/flappy_2.PNG" /></td>
+  <td><img src="https://akarthik10.github.io/public/flappy_3.PNG" /></td></tr></table>
 
   * [Fish](https://github.com/akarthik10/opengl-samples/tree/master/examples/fish)
   
@@ -42,13 +52,14 @@ list: yes
 
   * [Bowling game](https://github.com/akarthik10/opengl-samples/tree/master/examples/bowling)
   
-  ![Image](https://akarthik10.github.io/public/bowling_1.PNG)
-  ![Image](https://akarthik10.github.io/public/bowling_2.PNG)
+<table><tr>  <td><img src="https://akarthik10.github.io/public/bowling_1.PNG" /></td>
+  <td><img src="https://akarthik10.github.io/public/bowling_2.PNG" /></td></tr></table>
   
   * [Least Recently Used Page Replacement Algorithm - LRU](https://github.com/akarthik10/opengl-samples/tree/master/examples/lru-page-replacement)
   
-  ![Image](https://akarthik10.github.io/public/lru_1.PNG)
-  ![Image](https://akarthik10.github.io/public/lru_2.PNG)
+<table><tr>  <td><img src="https://akarthik10.github.io/public/lru_1.PNG" /></td>
+  <td><img src="https://akarthik10.github.io/public/lru_2.PNG" /></td></tr>
+<tr><td>Entering a sequence of page requests</td><td>Algorithm presentation</td></tr></table>
 
   * [Spaceship game](https://github.com/akarthik10/opengl-samples/tree/master/examples/asteroids)
   
