@@ -48,9 +48,9 @@ list: yes
 
   * [Fish](https://github.com/akarthik10/opengl-samples/tree/master/examples/fish)
   
-<p align="center"
-  <img align="center" src="https://akarthik10.github.io/public/fish_1.PNG" />
-</p>
+
+    <img align="center" src="https://akarthik10.github.io/public/fish_1.PNG" />
+
 
   * [Bowling game](https://github.com/akarthik10/opengl-samples/tree/master/examples/bowling)
   
