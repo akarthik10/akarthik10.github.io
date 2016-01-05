@@ -156,5 +156,6 @@ This was originally intended to be used by specially abled people for communicat
 <img src="http://akarthik10.github.io/public/hgrc/op_5.png" /></td></tr><tr><td align="center">Gesture completed - recognized gesture is Line</td></tr>
 </table>
 
+The following document provides more details if required:
 
-<iframe src="https://drive.google.com/file/d/0B6TfmI2fgbDyaGNfSXd6eDFXaFE/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/0B6TfmI2fgbDyaGNfSXd6eDFXaFE/preview" width="720" height="480"></iframe>
