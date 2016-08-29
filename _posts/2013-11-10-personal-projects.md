@@ -38,6 +38,7 @@ list: yes
 <tr><td align="center" valign="middle">Asking a query</td><td align="center" valign="middle">Response</td></tr>
 </table>
 
+<a name="opengl"></a>
 * I have also worked on several [**_OpenGL Projects_**](https://github.com/akarthik10/opengl-samples/tree/master/examples) in my free time to learn Computer Graphics in OpenGL.
 
 	  * [Flappy Bird](https://github.com/akarthik10/opengl-samples/tree/master/examples/flappy)
