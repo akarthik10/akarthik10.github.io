@@ -25,6 +25,7 @@ version:          2.1.0
 github:			  
   repo:           https://github.com/akarthik10/akarthik10.github.io
   profile:		  https://github.com/akarthik10
+  resume:       https://akarthik10.github.io/public/Resume.pdf
 
 gems:
   - jekyll-paginate
