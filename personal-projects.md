@@ -41,14 +41,13 @@ list: yes
 <a name="opengl"></a>
 * I have also worked on several [**_OpenGL Projects_**](https://github.com/akarthik10/opengl-samples/tree/master/examples) in my free time to learn Computer Graphics in OpenGL.
 
-	  * [Flappy Bird](https://github.com/akarthik10/opengl-samples/tree/master/examples/flappy)
+* [Flappy Bird](https://github.com/akarthik10/opengl-samples/tree/master/examples/flappy)
 	  
-	     <table><tr>  <td align="center" valign="middle"><img align="center" src="https://akarthik10.github.io/public/flappy_1.PNG" /></td>
-	       <td align="center" valign="middle"><img align="center" src="https://akarthik10.github.io/public/flappy_2.PNG" /></td>
-	       <td align="center" valign="middle"><img align="center" src="https://akarthik10.github.io/public/flappy_3.PNG" /></td></tr></table>
-	  * [Fish](https://github.com/akarthik10/opengl-samples/tree/master/examples/fish)
-	  
-	      <img align="center" src="https://akarthik10.github.io/public/fish_1.PNG" />
+ <table><tr>  <td align="center" valign="middle"><img align="center" src="https://akarthik10.github.io/public/flappy_1.PNG" /></td>
+ <td align="center" valign="middle"><img align="center" src="https://akarthik10.github.io/public/flappy_2.PNG" /></td>
+ <td align="center" valign="middle"><img align="center" src="https://akarthik10.github.io/public/flappy_3.PNG" /></td></tr></table>
+* [Fish](https://github.com/akarthik10/opengl-samples/tree/master/examples/fish)
+<img align="center" src="https://akarthik10.github.io/public/fish_1.PNG" />
 	  * [Bowling game](https://github.com/akarthik10/opengl-samples/tree/master/examples/bowling)
 	    <table><tr>  <td align="center" valign="middle"><img align="center" src="https://akarthik10.github.io/public/bowling_1.PNG" /></td>
 	      <td align="center" valign="middle"><img align="center" src="https://akarthik10.github.io/public/bowling_2.PNG" /></td></tr></table>
